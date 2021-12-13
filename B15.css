@@ -203,7 +203,11 @@ main .m-wrap .m-title{
 }
 .m-title{
 	margin-left:-20px;
-	font-size:30px;
+	font-size:40px;
+	color:transparent;
+	background:linear-gradient(#FF0099,#493240);
+	-webkit-text-stroke: 1px black;
+	-webkit-background-clip: text;
 }
  #v1{
 	width:calc(50% - 30px);
