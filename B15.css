@@ -102,7 +102,7 @@ main .m-wrap .m-title{
 .card{
 	width: calc(25% - 30px);
 	overflow:hidden;
-	margin-right:auto;
+	margin:0 15px;;
 	margin-bottom:30px;
 	font-family:'Poppins', sans-serif;
 	box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
@@ -347,7 +347,7 @@ footer .sdt{
 	width:30px;
 }
 .btn{
-	margin-left:25px !important;
+	margin-left:33px !important;
 }
 }
 
@@ -367,6 +367,9 @@ footer .sdt{
 		}
 	  .text{
 		  margin-bottom:30px;
+	  }
+	  .m-title{
+		  font-size:30px;
 	  }
 	  .t-1{
 		  margin-bottom:30px;
